@@ -40,7 +40,9 @@ Gender :
 <input type="radio" name="other"/> Other  
 <br>  
 <br>  
-  
+<p1>bhargavi</p1>
+<p2>hello</p2>
+<p3>arjun</p3>  
 <label>   
 Phone :  
 </label>  
